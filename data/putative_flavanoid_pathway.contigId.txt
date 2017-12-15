@@ -1,0 +1,12 @@
+allCormLibraries_Trinity_21Dec_TRINITY_DN65647_c3_g2_i1:233-1402(-)	CHS-1
+allCormLibraries_Trinity_21Dec_TRINITY_DN65647_c3_g2_i14:192-1361(-)	CHS-2
+allCormLibraries_Trinity_21Dec_TRINITY_DN59404_c0_g1_i1:286-1059(-)	CHS-3
+allCormLibraries_Trinity_21Dec_TRINITY_DN59518_c0_g1_i1:254-976(-)	CHI-1
+allCormLibraries_Trinity_21Dec_TRINITY_DN64834_c1_g2_i1:78-950(+)	CHI-2
+allCormLibraries_Trinity_21Dec_TRINITY_DN64834_c1_g2_i2:210-980(+)	CHI-3
+allCormLibraries_Trinity_21Dec_TRINITY_DN64834_c1_g1_i1:1-612(+)	CHI-4
+allCormLibraries_Trinity_21Dec_TRINITY_DN64617_c2_g1_i1:347-1465(+)	F3H-1
+allCormLibraries_Trinity_21Dec_TRINITY_DN64617_c2_g1_i2:236-1354(+)	F3H-2
+allCormLibraries_Trinity_21Dec_TRINITY_DN62168_c0_g1_i1:3-1130(+)	FLS-1
+allCormLibraries_Trinity_21Dec_TRINITY_DN64790_c1_g1_i1:306-1832(+)	CYP-1
+allCormLibraries_Trinity_21Dec_TRINITY_DN66280_c0_g1_i1:55-1638(+)	CYP-2
